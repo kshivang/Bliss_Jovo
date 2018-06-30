@@ -1,0 +1,17 @@
+{
+	"alexaSkill": {
+		"nlu": "alexa",
+		"manifest": {
+			"apis": {
+				"custom": {
+					"interfaces": [
+						{
+							"type": "AUDIO_PLAYER"
+						}
+					]
+				}
+			}
+		}
+	},
+	"endpoint": "https://webhook.jovo.cloud/c31036d0-8d0d-4645-92db-c23916da2f16"
+}
